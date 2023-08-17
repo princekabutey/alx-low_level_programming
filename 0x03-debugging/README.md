@@ -1,2 +1,1 @@
-# 0x03-debugging
-my project on debugging
+my project on 0x03-debugging
